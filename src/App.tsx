@@ -7,6 +7,7 @@ export default function App() {
       <Router>
       <Routes>
         <Route path="/" element={<Home/>} />
+        <Route path="/gallery" element={<Home/>} />
         <Route path="*" element={<Error/>}  />
       </Routes>
     </Router>

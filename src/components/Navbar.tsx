@@ -1,8 +1,9 @@
 function Navbar() {
     const links = [
-        ['Kezdőlap', 'home'],
-        ['Magamról', 'about'],
-        ['Kapcsolat', 'contact'],
+        ['Home', 'home'],
+        ['About Us', 'about'],
+        ['News', 'contact'],
+        ['Gallery', 'contact'],
     ]
     return (
         <nav className="flex flex-col sm:flex-row font-semibold text-lg bg-green-600 sm:justify-between justify-center">
