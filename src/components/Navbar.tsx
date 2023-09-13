@@ -1,10 +1,4 @@
-import { useState } from 'react';
 function Navbar() {
-    const [isActive, setActive] = useState(false);
-    const toggleClass = () => {
-        setActive(!isActive);
-        console.log(isActive)
-    };
     const links = [
         ['Kezdőlap', 'home'],
         ['Magamról', 'about'],

@@ -1,6 +1,7 @@
 import React from 'react'
 import Hero from '../components/Hero'
 import Navbar from '../components/Navbar'
+import Section from '../components/Section'
 
 function Home() {
     return (
@@ -8,6 +9,7 @@ function Home() {
             <div className="flex flex-col">
                 <Hero></Hero>
                 <Navbar></Navbar>
+                <Section></Section>
             </div>
         </div>
     )
