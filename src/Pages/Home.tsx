@@ -1,3 +1,4 @@
+import Footer from '../components/Footer';
 import Hero from '../components/Hero'
 import Navbar from '../components/Navbar'
 import Section from '../components/Section'
@@ -10,6 +11,7 @@ function Home() {
                 <Navbar></Navbar>
                 <Section></Section>
                 <Section></Section>
+                <Footer></Footer>
             </div>
         </div>
     )
