@@ -1,12 +1,22 @@
+import logo from '../assets/logo.png'
+
 
 function Section() {
     return (
-        <section className="mx-10 " id="contact">
-            <div className="flex flex-col items-center p-20 mt-16 space-y-6  md:w-1/2 bg-white  border border-gray-200 shadow-md pt-20">
-                <h1>Hello World!</h1>
+        <div className="pt-10">
+        <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+            <div className="md:flex">
+                <div className="md:shrink-0">
+                    <img className="h-48 w-full object-cover md:h-full md:w-48" src={logo} alt="Modern building architecture"/>
+                </div>
+                <div className="p-8">
+                    <div className="uppercase tracking-wide text-sm text-pcolor font-semibold">Company retreats</div>
+                    <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Incredible accommodation for your team</a>
+                    <p className="mt-2 text-slate-500">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
+                </div>
             </div>
-        </section>
-
+        </div>
+        </div>
     )
 }
 
