@@ -1,13 +1,18 @@
 import { BrowserRouter as Router,Routes,Route} from "react-router-dom";
 import Error from "./Pages/Error";
 import Home from './Pages/Home';
+import News from "./Pages/News";
+import Gallery from "./Pages/Gallery";
+import About from "./Pages/About";
 
 export default function App() {
   return (
       <Router>
       <Routes>
         <Route path="/" element={<Home/>} />
-        <Route path="/gallery" element={<Home/>} />
+        <Route path="/gallery" element={<Gallery/>} />
+        <Route path="/news" element={<News/>} />
+        <Route path="/about" element={<About/>} />
         <Route path="*" element={<Error/>}  />
       </Routes>
     </Router>
