@@ -21,10 +21,10 @@ jobs:
     - name: List output files
       run: find dist/ -print
       
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+    - name: 📂 Sync Files
+      uses: SamKirkland/web-deploy@v1
       with:
-        server: ftp.ecoyouthcampaign.com
-        username: ecoyouthcampaign@ftp.ecoyouthcampaign.com
-        password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: /
+        target-server: example.com
+        remote-user: username
+        private-ssh-key: ${{ secrets.FTP_PASSWORD }}
+        destination-path: ~/public_html/
