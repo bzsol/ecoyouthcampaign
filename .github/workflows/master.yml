@@ -27,4 +27,4 @@ jobs:
         server: ftp.ecoyouthcampaign.com
         username: ecoyouthcampaign@ftp.ecoyouthcampaign.com
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ~/public_html/
+        local-dir: /
