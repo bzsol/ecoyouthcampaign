@@ -21,12 +21,10 @@ jobs:
     - name: List output files
       run: find dist/ -print
       
-    - name: copy file via ssh password
-      uses: appleboy/scp-action@v0.1.4
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        host: 178.238.222.28
-        username: ecoyouthcampaign
-        password: ${{ secrets.ssh_password}}
-        port: 22
-        source: "dist/"
-        target: ~/public_html/
+        server: ftp.ecoyouthcampaign.com
+        username: ecoyouthcampaign@ftp.ecoyouthcampaign.com
+        password: ${{ secrets.ssh_password }}
+        local-dir: ~/build/
