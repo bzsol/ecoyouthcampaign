@@ -26,6 +26,6 @@ jobs:
       with:
         server: ftp.ecoyouthcampaign.com
         username: ecoyouthcampaign@ftp.ecoyouthcampaign.com
-        password: ${{ secrets.ssh_password }}
+        password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./dist/
         server-dir: /home/ecoyouthcampaign/public_html/
