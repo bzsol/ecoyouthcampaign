@@ -26,7 +26,7 @@ jobs:
       with:
         host: 178.238.222.28
         username: ecoyouthcampaign
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: ${{ secrets.ssh_password}}
         port: 22
         source: "dist/"
         target: ~/public_html/
