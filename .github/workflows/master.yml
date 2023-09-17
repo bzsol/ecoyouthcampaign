@@ -24,7 +24,7 @@ jobs:
     - name: 📂 Sync Files
       uses: SamKirkland/web-deploy@v1
       with:
-        target-server: example.com
-        remote-user: username
+        target-server: 178.238.222.28
+        remote-user: ecoyouthcampaign
         private-ssh-key: ${{ secrets.FTP_PASSWORD }}
         destination-path: ~/public_html/
