@@ -45,8 +45,8 @@ const images = [
 
 function ImageSwiper() {
   return (
-    <div className="pt-20 mx-auto">
-    <ImageGallery items={images} />
+    <div className="pt-20 mx-auto w-2/3">
+    <ImageGallery items={images} className="" />
     </div>
   )
 }
