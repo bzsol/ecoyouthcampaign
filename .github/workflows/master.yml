@@ -22,10 +22,10 @@ jobs:
       run: find dist/ -print
       
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.0
       with:
-        server: 178.238.222.28
-        username: ecoyouthcampaign
+        server: ${{ secrets.FTP_PASSWORD }}
+        username: ${{secrets.WEB_SERVER_USER}}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./
-        server-dir: ./public_html/project/
+        local-dir: ./dist/
+        server-dir: ./public_html/
