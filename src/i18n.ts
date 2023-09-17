@@ -32,6 +32,12 @@ i18n
                 second: 'Második műhelyfoglalkozás'
             }
         }
+      },
+      ro: {
+        translation: {
+          first: 'Első műhelyfoglalkozás',
+          second: 'Második műhelyfoglalkozás'
+        }
       }
     }
   });
