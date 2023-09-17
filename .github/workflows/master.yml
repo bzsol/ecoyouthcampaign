@@ -27,5 +27,5 @@ jobs:
         server: 178.238.222.28
         username: ecoyouthcampaign
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./dist/
+        local-dir: ./
         server-dir: ./public_html/project
