@@ -28,4 +28,4 @@ jobs:
         username: ecoyouthcampaign
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
-        server-dir: ./public_html/project
+        server-dir: ./public_html/project/
