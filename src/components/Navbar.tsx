@@ -2,19 +2,26 @@ import { HU, PL, RO, GB } from 'country-flag-icons/react/3x2'
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, LanguageIcon, XMarkIcon } from '@heroicons/react/24/outline'
+import { useTranslation} from 'react-i18next';
+import i18n from '../i18n';
 
-const navigation = [
-  { name: 'Kezdőlap', href: '/', current: false },
-  { name: 'Rólunk', href: '/about', current: false },
-  { name: 'Hírek', href: '/news', current: false },
-  { name: 'Galéria', href: '/gallery', current: false },
-]
+
+
+
+
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
 export default function Navbar() {
+  const { t } = useTranslation();
+  const navigation = [
+    { name: t('navbar.home'), href: '/', current: false },
+    { name: t('navbar.about'), href: '/about', current: false },
+    { name: t('navbar.news'), href: '/news', current: false },
+    { name: t('navbar.gallery'), href: '/gallery', current: false },
+  ]
   return (
     <Disclosure as="nav" className="bg-pcolor">
       {({ open }) => (
@@ -84,7 +91,7 @@ export default function Navbar() {
                       <Menu.Item>
                         {({ active }) => (
                           <a
-                            href="#"
+                          onClick={() => i18n.changeLanguage('hu')}
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
                           >
                             <center><HU height={20} title="Hungarian" className="drop-shadow-2xl" /></center>
@@ -114,7 +121,7 @@ export default function Navbar() {
                       <Menu.Item>
                         {({ active }) => (
                           <a
-                            href="#"
+                            onClick={() => i18n.changeLanguage('en')}
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
                           >
                             <center><GB height={20} title="English" className="drop-shadow-2xl" /></center>

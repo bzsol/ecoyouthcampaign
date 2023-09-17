@@ -27,8 +27,8 @@ function Home() {
             <div className="flex flex-col">
                 <Hero></Hero>
                 <Navbar></Navbar>
-                <Section date="2023. június 17-21., Milcoveni, Románia" title={t('workshop.second')} text="Második műhelyfoglalkozásunkon a kommunikációé volt a főszerep. Felállítottuk a csoportokat, akik a tartalmakat tervezik, előkészítik, elkészítik. Csináltunk videós tartalmakat, leosztottuk a feladatokat, hogy kik fognak fordítani, kik kezelik és frissítik az instagram tartalmakat. A csoport végül arról döntött, hogy képi ábrázolást helyezi előtérbe a kampányban és nem a grafikus elemeket. Minden este nemzetközi esteket tartottunk, de eljutottunk egy felejthetetlen utazással Resicabányára is, hegymászással egybekötve" photo={second}></Section>
-                <Section date="2023. március 31. – április 3, Krosno, Lengyelország" title={t('workshop.first')} text="Műhelyfoglalkozásunk első részében jégtörést tartottunk, majd az egyes városok résztvevői bemutatták településüket környezetvédelmi szempontból. Találkoztunk helyi képviselőkkel illetve egy helyi környezetvédelmi vállalkozással, majd pedig a különböző környezetvédelmi problémákat szedtük össze. Leraktuk a kommunikációs kampányunk alapjait, terveztünk logót és elkezdtük a honlap vizuális részét megtervezni. Természetesen nemzetközi estekre is sor került." photo={first}></Section>
+                <Section date={t('workshop.date_second')}  title={t('workshop.second')} text={t('workshop.second_text')}  photo={second}></Section>
+                <Section date={t('workshop.date_first')}  title={t('workshop.first')} text={t('workshop.first_text')}  photo={first}></Section>
                 <Footer></Footer>
             </div>
         </div>
