@@ -5,6 +5,9 @@ import News from "./Pages/News";
 import Gallery from "./Pages/Gallery";
 import About from "./Pages/About";
 
+// import i18n (needs to be bundled ;))
+import './i18n';
+
 export default function App() {
   return (
       <Router>
