@@ -38,8 +38,8 @@ i18n
             date_second: '2023. MARCH 31. – APR 3 | KROSNO, POLAND',
             first: 'First workshop',
             second: 'Second workshop',
-            second_text: 'In our second workshop, communication took the spotlight. We formed groups responsible for planning, preparing, and creating content. We produced video content and delegated tasks, determining who would translate and manage/update Instagram content. Ultimately, the group decided to prioritize visual representation in the campaign rather than graphic elements. We hosted international events every evening and even had an unforgettable journey to Resicabánya, combined with mountain climbing.',
-            first_text: 'In the first part of our workshop, we conducted an icebreaker activity, and then participants from different cities presented their towns from an environmental perspective. We had meetings with local representatives and a local environmental company. Subsequently, we collected various environmental issues. We laid the foundations for our communication campaign, designed a logo, and began planning the visual aspects of the website. Of course, international evenings were also held.'
+            second_text: 'In our second workshop, the main role was the communication. We set up the groups who plan, prepare and take care of the content. We made videos, divided up the tasks of who would translate, who would manage and update the Instagram content. In the end, the group decided to prioritize visual representation in the campaign and not graphic elements. We held international evenings every night, but we also went on an unforgettable trip to Reșița, combined with mountain climbing.',
+            first_text: 'In the first part of our workshop, we broke the ice, and then the participants from each city presented their settlements from an environmental protection point of view. We met with local representatives and a local environmental protection company, and then we collected the various environmental protection problems. We laid the foundations of our communication campaign, designed a logo and started designing the visual part of the website. Of course, international evenings also took place.'
           }
         }
       },
@@ -54,7 +54,7 @@ i18n
             text: "Lorem dolores et et duo sea minim clita esse mazim diam sed no iusto lorem kasd praesent rebum. Voluptua amet eirmod. Invidunt lorem sea. Stet eum sanctus amet duo eirmod dolor sanctus ipsum. Feugiat nonumy sit diam ut no elit. Nihil lorem diam esse dolor mazim lorem sed vero at clita sadipscing dolore justo te no. In eu augue eos in facilisi magna. Sadipscing diam in accusam et dolore erat takimata illum amet ipsum. At duis illum nostrud diam vel voluptua consetetur sanctus et no quis et no delenit."
           },
           navbar: {
-            home: 'Kerzdőlap',
+            home: 'Kezdőlap',
             about: 'Rólunk',
             news: 'Hírek',
             gallery: 'Galéria'
