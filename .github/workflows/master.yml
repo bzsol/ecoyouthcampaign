@@ -25,7 +25,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
         server: 178.238.222.28
-        username: ecoyouthcampaign@ftp.ecoyouthcampaign.com
+        username: ecoyouthcampaign
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./dist/
         server-dir: /home/ecoyouthcampaign/public_html/
