@@ -19,7 +19,7 @@ jobs:
         npm run build
   
     - name: Create .htaccess
-      run: touch .htaccess
+      run: touch /dist/.htaccess
 
     - name: List output files
       run: find dist/ -print
