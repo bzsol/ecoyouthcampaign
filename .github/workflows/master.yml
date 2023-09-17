@@ -24,6 +24,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
+        
+        port: 21
         server: ftp.ecoyouthcampaign.com
         username: ecoyouthcampaign@ftp.ecoyouthcampaign.com
         password: ${{ secrets.FTP_PASSWORD }}
