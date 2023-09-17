@@ -22,7 +22,7 @@ jobs:
       run: find dist/ -print
       
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.1.0
+      uses: Penguibird/FTP-Deploy-Action@4.2.0
       with:
         server: 178.238.222.28
         username: ecoyouthcampaign
