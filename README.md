@@ -1,27 +1,21 @@
-# React + TypeScript + Vite
+# Eco Youth Campaign React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> The goal is to make an accessible website for a project
 
-Currently, two official plugins are available:
+This is the codebase of the https://ecoyouthcampaign website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Used dependencies and tools
 
-## Expanding the ESLint configuration
+- React + TypeScript + Vite
+- [i18next](https://www.npmjs.com/package/i18next)
+- [React Image Gallery](https://www.npmjs.com/package/react-image-gallery)
+- [TailwindCSS](https://tailwindcss.com/)
+- [React Router](https://www.npmjs.com/package/react-router-dom)
+- [React Icons](https://www.npmjs.com/package/react-icons)
+- [HeroIcons](https://heroicons.com/)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+GitHub actions is active for the CI/CD and deployment of the website via FTP which is much more convenient than SSH, shared hosting is restrictive.
 
-- Configure the top-level `parserOptions` property like this:
+CI tool that was used is the [FTP deploy](https://github.com/SamKirkland/FTP-Deploy-Action)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+The website is running on an Apache HTTP server, for React router, it was neccesary to use an .htaccess file.
