@@ -27,8 +27,8 @@ function Home() {
             <div className="flex flex-col">
                 <Hero></Hero>
                 <Navbar></Navbar>
-                <Section date={t('workshop.date_second')}  title={t('workshop.second')} text={t('workshop.second_text')}  photo={second}></Section>
-                <Section date={t('workshop.date_first')}  title={t('workshop.first')} text={t('workshop.first_text')}  photo={first}></Section>
+                <Section url="/second-workshop" date={t('workshop.date_second')}  title={t('workshop.second')} text={t('workshop.second_text')}  photo={second}></Section>
+                <Section url="/first-workshop" date={t('workshop.date_first')}  title={t('workshop.first')} text={t('workshop.first_text')}  photo={first}></Section>
                 <Footer></Footer>
             </div>
         </div>
