@@ -1,7 +1,7 @@
 import { HU, PL, RO, GB } from 'country-flag-icons/react/3x2'
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
-import { Bars3Icon, LanguageIcon, XMarkIcon } from '@heroicons/react/24/outline'
+import { Bars3Icon, GlobeAltIcon, XMarkIcon } from '@heroicons/react/24/outline'
 import { useTranslation} from 'react-i18next';
 import i18n from '../i18n';
 
@@ -75,7 +75,7 @@ export default function Navbar() {
                     <Menu.Button className="relative flex rounded-full text-white  text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
                       <span className="absolute -inset-1.5" />
                       <span className="sr-only">Open language menu</span>
-                      <LanguageIcon className="h-6 w-6" aria-hidden="true" />
+                      <GlobeAltIcon className="h-6 w-6" aria-hidden="true" />
                     </Menu.Button>
                   </div>
                   <Transition
