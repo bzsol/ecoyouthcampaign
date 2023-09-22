@@ -6,9 +6,10 @@ import Gallery from "./Pages/Gallery";
 import About from "./Pages/About";
 import FirstWorkshop from "./Pages/FirstWorkshop";
 import SecondWorkshop from "./Pages/SecondWorkshop";
-
+import ThirdWorkshop from "./Pages/ThirdWorkshop";
 // import i18n (needs to be bundled ;))
 import './i18n';
+
 
 
 
@@ -19,6 +20,7 @@ export default function App() {
         <Route path="/" element={<Home/>} />
         <Route path="/first-workshop" element={<FirstWorkshop/>} />
         <Route path="/second-workshop" element={<SecondWorkshop/>} />
+        <Route path="/third-workshop" element={<ThirdWorkshop/>} />
         <Route path="/gallery" element={<Gallery/>} />
         <Route path="/news" element={<News/>} />
         <Route path="/about" element={<About/>} />
