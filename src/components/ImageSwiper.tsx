@@ -41,6 +41,22 @@ const images = [
     original: "/second/5.jpg",
     thumbnail: "/second/5.jpg",
   },
+  {
+    original: "/third/1.jpg",
+    thumbnail: "/third/1.jpg",
+  },
+  {
+    original: "/third/2.jpg",
+    thumbnail: "/third/2.jpg",
+  },
+  {
+    original: "/third/3.jpg",
+    thumbnail: "/third/3.jpg",
+  },
+  {
+    original: "/third/4.jpg",
+    thumbnail: "/third/4.jpg",
+  },
 ];
 
 function ImageSwiper() {
