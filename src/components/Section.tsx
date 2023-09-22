@@ -1,4 +1,7 @@
+import { useTranslation } from 'react-i18next';
+
 function Section(props) {
+    const { t } = useTranslation();
     var array = props.photo;
     return (
         <div className="pt-10">
@@ -25,7 +28,7 @@ function Section(props) {
                         <a href="mailto:?subject=Eco%20Youth%20Campaign&body=https%3A%2F%2Fecoyouthcampaign.com%2F" className="pr-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26"  className="fill-pcolor hover:fill-green" viewBox="0 0 16 16"><path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/></svg>
                         </a>
-                        <a onClick={() => {navigator.clipboard.writeText(props.url);alert(props.copytext)}} className="pr-3">
+                        <a onClick={() => {navigator.clipboard.writeText(props.url);alert(t('copy.clipboard'))}} className="pr-3">
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" className="fill-pcolor hover:fill-green" viewBox="0 0 16 16"><path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/><path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/></svg>
                         </a>
                         </div>
