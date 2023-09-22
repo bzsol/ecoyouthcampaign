@@ -1,7 +1,7 @@
-import Feed from "../components/Feed"
 import Hero from "../components/Hero"
 import Navbar from "../components/Navbar"
 import { useTranslation } from 'react-i18next';
+import NewsFeed from "../components/NewsFeed";
 
 function News() {
   const { t } = useTranslation();
@@ -10,7 +10,7 @@ function News() {
       <div className="flex flex-col">
         <Hero></Hero>
         <Navbar></Navbar>
-        <Feed title={t('news.title')} text={t('news.text')}></Feed>
+        <NewsFeed title={t('news.title')} text={t('news.text')} />
       </div>
     </div>
   )
