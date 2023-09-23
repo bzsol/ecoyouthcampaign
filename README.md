@@ -2,7 +2,7 @@
 
 > The goal is to make an accessible website for a project
 
-This is the codebase of the https://ecoyouthcampaign website
+This is the codebase of the https://ecoyouthcampaign.com website
 
 ## Used dependencies and tools
 
