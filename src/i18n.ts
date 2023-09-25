@@ -20,7 +20,7 @@ i18n
       en: {
         translation: {
           copy:{
-            clipboard: 'link has been copied to the clipboard'
+            clipboard: 'Link has been copied to the clipboard'
           },
           news: {
             title: "News:",
@@ -113,7 +113,7 @@ i18n
       ro: {
         translation: {
           copy: {
-            clipboard: 'lorem'
+            clipboard: 'Linkul a fost copiat în clipboard'
           },
 
           news: {
@@ -140,7 +140,7 @@ i18n
           },
 
           navbar: {
-            home: 'Pagina principala',
+            home: 'Acasă',
             about: 'Despre',
             news: 'Știri',
             gallery: 'Galerie'
@@ -163,7 +163,54 @@ i18n
       },
 
       pl: {
-        
+        translation: {
+          copy: {
+            clipboard: '.'
+          },
+
+          news: {
+            title: '.',
+            text: '.'
+          },
+
+          about: {
+            title: '.',
+            first_paragraph: '.',
+            second_paragraph: '.',
+            third_paragraph: '.',
+            fourth_paragraph: '.',
+            fifth_paragraph: '.',
+            sixth_paragraph: '.',
+            seventh_paragraph: '.',
+            goal: '.',
+            first_ul: '.',
+            second_ul: '.',
+            third_ul: '.',
+            fourth_ul: '.',
+            fifth_ul: '.',
+            sixth_ul: '.',
+            seventh_ul: '.'
+          },
+
+          navbar: {
+            home: 'Home',
+            about: 'About',
+            news: 'News',
+            gallery: 'Gallery'
+          },
+
+          workshop: {
+            date_first: '2023',
+            date_second: '2023',
+            date_third: '24 lipiec 2023, | Nyíregyháza',
+            first: 'a',
+            second: 'a',
+            third: 'Kampania ochrony środowiska, zbieranie śmieci',
+            second_text: 's',
+            first_text: 's',
+            third_text: 'W ramach naszego projektu staramy się nie tylko prowadzić kampanie online, ale również dążyć do zmian społecznych wśród ludzi, do których nie możemy dotrzeć przez internet. Jednym z najlepszych sposobów, żeby zrealizować ten cel jest dawanie przykładu podczas naszej akcji zbierania śmieci. Po pierwsze, zniechęca to młodzież, która uczestniczyła w tym wydarzeniu do śmiecenia w przyszłości, a po drugie, gdy inni ludzie zobaczą nasze działania, skłoni ich to do przestrzegania właściwych norm społecznych lub do dołączenia do podobnych przedsięwzięć. W naszej akcji zbierania śmieci wzięli również udział zagraniczni studenci mieszkający i studiujący w Nyíregyházie. Pomocne w nagłośnieniu naszych działań było także to, że wydarzenie spotkało się z poważnym zainteresowaniem mediów, a także wiceburmistrza Nyíregyházy.'
+          }
+        }
       }
     }
   });
