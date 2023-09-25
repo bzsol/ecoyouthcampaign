@@ -16,6 +16,6 @@ This is the codebase of the https://ecoyouthcampaign.com website
 
 GitHub actions is active for the CI/CD and deployment of the website via FTP which is much more convenient than SSH, shared hosting is restrictive.
 
-CI tool that was used is the [FTP deploy](https://github.com/SamKirkland/FTP-Deploy-Action)
+CI/CD tool that was used is the [FTP deploy](https://github.com/SamKirkland/FTP-Deploy-Action)
 
 The website is running on an Apache HTTP server, for React router, it was neccesary to use an .htaccess file.
