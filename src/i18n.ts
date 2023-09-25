@@ -102,7 +102,7 @@ i18n
                 date_third: '2023. JÚLIUS 24., | NYÍREGYHÁZA',
                 second: 'Második műhelyfoglalkozás',
                 first: 'Első műhelyfoglalkozás',
-                third: 'Környezetvédelmi kampány, szemétszedés,',
+                third: 'Környezetvédelmi kampány, szemétszedés',
                 second_text: 'Nagy várakozásokkal telve indultunk neki második műhelyfoglalkozásunknak, melynek helyszíne a szerb határhoz közel eső Milcoveni volt, ahol épp az érkezésünk napján adtak ki vörös riasztást az áradások miatt. Ennek ellenére mindenki rendben és épségben megérkezett, így a jégtörést követően áttekintettük a projektet, az addig megbeszélteket. Az első műhelyfoglalkozáshoz képest minimális személyes változások is voltak, így őket segítve és informálva beszéltük át, hogy hogyan áll a projekt. Egy rövid selfbranding előadásra is sort kerítettünk. A második napon áttekintettük egy kommunikációs kampány részleteit, előadást hallgattunk meg egy jól működő koncentrált kampányról, melynek lényege az, hogy a lehető legtöbb platformon jelen legyünk. Véglegesítettük az első műhely arculatai elemeit, azokat digitalizáltuk. Felállítottunk csoportokat, akik az egyes kommunikációs kampány fázisait előállítják és ellenőrzik: egy honlap, egy instagram és facebook, egy tiktok és egy fordító munkacsoport jött létre. A munkacsoportok bemutatták a felületeket, ahol és ahogyan megjelenni szeretnének, a gyakoriságot, a színvilágot. A résztvevők elvették azt, hogy a kampányban grafikus elemeket használjanak, így az egyszerűbb fotós megjelenések mellett tették le a voksukat. Este nemzetközi est mellett a városok bemutatták kultúrájuk mellett a gasztronómiájukat is. A harmadik napon a kommunikációs kampány részletes kidolgozásra fordítottuk az időt, sok-sok vitával fűszerezve azt. Pontos forgatókönyvet fogadtunk el a megjelenésekre, legyen az insta vagy tiktok. Határidőt határoztunk meg a honlap elkészítésére, meghatároztuk a megjelenések számát, a fordítók határidejét. A munkacsoportok bemutatták részletesen résztvevőknek ezt, akik szintén véleményezhették azokat, ezzel is újabb vitákat generálva. Este egy feledhetetlen táncos estben volt részünk. A negyedik nap délelőttjén Resicabányát látogattuk meg, ahol felmásztunk a várost ölelő hegyre. Megtapasztalhattuk a város környezetvédelmi irányait, a szelektív hulladékgyűjtést, a természet és az épített közeg összefonódását. Strukturált párbeszéd révén megismerhettük a város környezetvédelmi törekvéseit. Az ötödik napon értékeltük a teljes műhelyfoglalkozást. Meghatároztuk a következő időszak eseményeit, átvettük és átismételtük a munkacsoportok feladatait. Mindhárom városban legalább 2-2 környezetvédelemre felhívó eseményt fogunk tartani (szemétszedés, faültetés és hasonlók) lehetőség szerint döntéshozók bevonásával.',
                 first_text: 'Műhelyfoglalkozásunkat a festői lengyelországi kisvárosban, Krosnoban tartottuk, ahol egy galériának is helyet adó workshop helyszínt sikerült találnunk. Az érkezést követően jégtörést végeztünk, mindezt névtanulós játékokkal, ezzel sikerült jó hangulatot teremtenünk már az esemény elején. Ezt követően az Erasmus+ lehetőségeiről és a Youthpass-ról esett szó, valamint a tanulási eredményekről. Egy rövid szünetet követően megismerkedhettünk a projekt céljaival, eseményeivel, kimeneti eredményeivel egy előadás keretében. A második napon a reggelit követően egy vitával indítottuk a napot, amiben a környezetvédelemről általánosságban volt szó, majd a délelőtt további részében helyi döntéshozókkal találkoztunk, illetve egy előadást hallgattunk meg a helyi hulladékgyűjtésről és annak igen innovatív felhasználásáról, ugyanis egyrészt legalább 6-7 különböző szelektív hulladékgyűjtés folyik a városban, másrészt a keletkezett szemét nagy részét helyben elégetik, amivel a helyi közintézmények hő ellátását nagyrészt biztosítani is tudják. Az előadóknak kérdéseket tettünk fel, akik készséggel válaszoltak mindenre. A kávészünet után csoportmunkák következtek, melyben bemutattuk városainkat környezetvédelmi szempontból, majd egy mini SWOT analízist készített minden város csoportja, természetesen környezetvédelmi szempontok alapján. Az ebédet követően környezetvédelmi gerillaakciókról vitáztunk; meddig lehet elmenni, mi fér még bele, felhívja-e a társadalom figyelmét ez? A vitát követően ismét a csoportmunkáé volt a főszerep, melyben elkészítettük ideális településünket környezetvédelmi szempontok alapján, melyeket természetesen be is mutattunk egymásnak. A napot este egy közös interkulturális esttel zártuk, sok-sok néptánccal és dallal. A harmadik napon nem-formális környezetvédelmi gyakorlatokat végeztünk, majd a kommunikációs alapfogalmak kerültek terítékre. Megvitattuk azokat a platformokat, melyek projektünk esetében szóba jöhetnek (honlap, facebook, instagram, tiktok) és elkészítettünk csoportmunkában néhány „helyi újságot”. A délután folyamán elkezdtük megtervezni az arculati elemeket csoportmunkában szintén, így lett logója a projektnek. Elkezdtük tervezni a honlapot és annak felépítését. Este egy közös bowlingozáson vettünk részt. A negyedik nap a felelősök kijelölésével, a részfeladatok átbeszélésével folytatódott, majd szó esett az eredmények terjesztéséről is. A reflexiók és az értékelést követően búcsúztunk el egymástól azzal, hogy hamarosan találkozunk ismét, immár Romániában.',
                 third_text: 'Részvételi projektünkben szeretnénk nem csak az online térben kampányt folytatni, hanemtársadalmi változásokat elérni azoknál is, akikhez nem, vagy kevésbé jutunk el. Ennek egyiklegfontosabb színtere, ha tükröt mutatunk és például szemétszedést szervezünk, amely egyrészt arésztvevő fiatalokat is arra ösztönzi, hogy a jövőben ne szemeteljenek, másrészt az akciót látókat isráirányítja arra, hogy vagy kövessék a megfelelő társadalmi normákat vagy maguk is csatlakozzanakbe hasonló akciókba. A szemétszedési akcióba bevontuk a Nyíregyházán tanuló és élő külföldihallgatókat is. Külön segíti a disszeminációt, hogy az eseményt igen komoly médiaérdeklődés övezte,valamint hogy az eseményen tiszteletét tette Nyíregyháza Megyei Jogú Város alpolgármestere is.',
@@ -117,11 +117,11 @@ i18n
           },
 
           news: {
-            title: 'lorem',
-            text: 'Lorem dolores et et duo sea minim clita esse mazim diam sed no iusto lorem kasd praesent rebum. Voluptua amet eirmod. Invidunt lorem sea. Stet eum sanctus amet duo eirmod dolor sanctus ipsum. Feugiat nonumy sit diam ut no elit. Nihil lorem diam esse dolor mazim lorem sed vero at clita sadipscing dolore justo te no. In eu augue eos in facilisi magna. Sadipscing diam in accusam et dolore erat takimata illum amet ipsum. At duis illum nostrud diam vel voluptua consetetur sanctus et no quis et no delenit.'
+            title: 'Știri:',
+            text: "Lorem dolores et et duo sea minim clita esse mazim diam sed no iusto lorem kasd praesent rebum. Voluptua amet eirmod. Invidunt lorem sea. Stet eum sanctus amet duo eirmod dolor sanctus ipsum. Feugiat nonumy sit diam ut no elit. Nihil lorem diam esse dolor mazim lorem sed vero at clita sadipscing dolore justo te no. In eu augue eos in facilisi magna. Sadipscing diam in accusam et dolore erat takimata illum amet ipsum. At duis illum nostrud diam vel voluptua consetetur sanctus et no quis et no delenit."
           },
           about: {
-            title: 'Despre noi',
+            title: 'Despre noi:',
             first_paragraph: 'În programul nostru, dorim ca tinerii din 3 orașe să se unească într-o campanie online și offline pentru mediul înconjurător și protecția sa și în același timp pentru viața democratică locală, pe baza căreia putem atinge o schimbare fundamentală de atitudine. Observăm că tinerii sunt receptivi la ideea de protecție a mediului înconjurător și doresc să facă mai multe în legătură cu asta. Dorim să generăm proiectul acesta în 3 țări, prin care putem atinge schimbări nu doar în grupurile de oameni de 13-30 de ani, dar și local într-un strat mai larg de oameni.  Programul e bazat pe faptul că, sub numele de Eco-democracy, tineri din 5 țări s-au întâlnit într-un youth exchange internațional dublu, în Italia, în Sassari și Nyíregyháza, și cu ocazia acestui program, posibilitatea unei cooperări în continuare a fost formulată în 3 dintre organizațiile participante.',
             second_paragraph: 'Am văzut și experimentat că se pot face multe pentru protecția mediului la nivel local, și unul dintre cele mai importante aspecte este dacă putem implementa formare de atitudine de bază, căci asta e baza la toate.  În ambele exchange-uri au fost întreținute activități de voluntariat, în ambele țări am putut experimenta cum oamenii de obicei sunt nepăsători față de mediu, poluându-l cu obiecte nedegradabile.',
             third_paragraph: 'Oficiul Președintelui Studențesc din Nyíregyháza întreține campanii de colectare a gunoiului în care se găsește că cele 3 cele mai comune tipuri din oraș sunt chiștoace, doze de aluminiu și sticle de plastic, dar am descoperit lucruri similare când curățam o bucată de plajă în Italia. De asemenea, vedem că protecția mediului devine o parte cotidiană a vieții, însă, în multe cazuri, doar la nivelul cuvintelor. Acesta este aspectul asupra căruia proiectul nostru vrea să reflecteze, în care vom lansa campanii de schimbare a atitudinii în 3 orașe, evident, implicând și administratori locali.',
@@ -165,16 +165,16 @@ i18n
       pl: {
         translation: {
           copy: {
-            clipboard: '.'
+            clipboard: 'Link został skopiowany do schowka.'
           },
 
           news: {
-            title: '.',
-            text: '.'
+            title: 'Aktualności:',
+            text: "Lorem dolores et et duo sea minim clita esse mazim diam sed no iusto lorem kasd praesent rebum. Voluptua amet eirmod. Invidunt lorem sea. Stet eum sanctus amet duo eirmod dolor sanctus ipsum. Feugiat nonumy sit diam ut no elit. Nihil lorem diam esse dolor mazim lorem sed vero at clita sadipscing dolore justo te no. In eu augue eos in facilisi magna. Sadipscing diam in accusam et dolore erat takimata illum amet ipsum. At duis illum nostrud diam vel voluptua consetetur sanctus et no quis et no delenit."
           },
 
           about: {
-            title: '.',
+            title: ':',
             first_paragraph: '.',
             second_paragraph: '.',
             third_paragraph: '.',
@@ -193,21 +193,21 @@ i18n
           },
 
           navbar: {
-            home: 'Home',
-            about: 'About',
-            news: 'News',
-            gallery: 'Gallery'
+            home: 'Strona główna',
+            about: 'O nas',
+            news: 'Aktualności',
+            gallery: 'Galeria'
           },
 
           workshop: {
             date_first: '2023',
             date_second: '2023',
             date_third: '24 lipiec 2023, | Nyíregyháza',
-            first: 'a',
-            second: 'a',
+            first: 'polish first',
+            second: 'polish second',
             third: 'Kampania ochrony środowiska, zbieranie śmieci',
-            second_text: 's',
-            first_text: 's',
+            second_text: 'polish second text',
+            first_text: 'polish first text',
             third_text: 'W ramach naszego projektu staramy się nie tylko prowadzić kampanie online, ale również dążyć do zmian społecznych wśród ludzi, do których nie możemy dotrzeć przez internet. Jednym z najlepszych sposobów, żeby zrealizować ten cel jest dawanie przykładu podczas naszej akcji zbierania śmieci. Po pierwsze, zniechęca to młodzież, która uczestniczyła w tym wydarzeniu do śmiecenia w przyszłości, a po drugie, gdy inni ludzie zobaczą nasze działania, skłoni ich to do przestrzegania właściwych norm społecznych lub do dołączenia do podobnych przedsięwzięć. W naszej akcji zbierania śmieci wzięli również udział zagraniczni studenci mieszkający i studiujący w Nyíregyházie. Pomocne w nagłośnieniu naszych działań było także to, że wydarzenie spotkało się z poważnym zainteresowaniem mediów, a także wiceburmistrza Nyíregyházy.'
           }
         }
