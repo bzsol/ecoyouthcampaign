@@ -56,10 +56,10 @@ i18n
             date_third: '2023. JULY 24., | NYÍREGYHÁZA, HUNGARY',
             first: 'First workshop',
             second: 'Second workshop',
-            third: 'Third workshop',
+            third: 'Environmental protection campaign, garbage collection',
             second_text: 'We had great expectations regarding our second workshop, which took place near the Serbian border, in Milcoveni, where there have been severe weather alerts sent out about floods on the day of our arrival. Despite this everybody got there safe, so following some ice-breaker games we started reviewing the project and the things we have already established. Compared to the first workshop we had minimal changes in the participants, therefore we informed the ne w members and told them about the details of the project. We also had a short selfbranding presentation. On the second day we learned about the details of a good communication campaign, that has the purpose to be present on most platforms. We also finalised and digitalised some design elements of the project. We set up workgroups responsible for working on the different parts of the project, such as a website, an Instagram and Facebook, a Tiktok and a translating team. The groups made presentations about their platforms and also showed how they wanted to be present on them, talking about the frequency and content of the future posts. The participants have decided that instead of graphic designs they will opt for a more simple appearence with photos. In the evening we once again organised an intercultural night, where the different cities could show their gastronomy and culture. On the third day we worked on the detailed planning of the campaign and a lot of discussions occured. We made the exact script for what we will post on every platform. We set up deadlines for the debut of the website and for the translators and talked about the frequency of posting on other platforms. These plans were than presented by the groups to other participants so that they could also give their opinions on them, which generated even more discussion. Later we had an unforgettable dance-night. On the fourth day we visited Reșița, where we hiked the mountain next to the city. We could see first hand the environmental protection the city does, like the selective waste collection and the bond of nature and artificial areas. During a structured conversation we got to learn more about its environmental protection aspirations as well. On the fifth day we evaluated the whole workshop. We established the events of the up-coming time period and went through the tasks of the different groups. In each city we are planning to do 2-2 actions bringing awareness to environmental protection (like picking up trash, planting trees and similar things), preferably whith including local decison-makers.',
             first_text: 'We held our project in the beautiful polish small town of Krosno, where we found a place, also home to an art gallery, as our workshop location. After arrival we played ice-breaker games, to learn eachothers names, which already set up a good mood for the event. Following this, we talked about Erasmus+ opportunities, Youthpass and of the results of studying. After a short break we got to know more about the aim, the events and the planned end results of the project during a presentation. On the second day, following breakfast, we held a debate about general questions surrounding environmental protection and during the rest of the morning we met with some local decision-makers. Besides we also listened to a presentation about the very innovative local waste management, where first of all they have 6-7 different types of selective waste collection and second of all they also burn the garbage locally, generating enough heat for most public institutions in the area. During this we could also ask any question that came up and we were provided with answers. After a coffee break we did some groupwork, where we all introduced our cities from an environmental standpoint and we also made a mini SWOT analysis about the cities, once again, from a green perspective. Later we had lunch and held debates again, but now about the ethics of demonstrative actions for environmental protection, for example, how far can you go with these actions and do they really help with bringing awareness? Following the debate we worked in groups again, where we created an ideal imaginary city with mostly taking into consideration ecologycal factors and presented them to eachother. We ended the day with an intercultural night, that included a lot of folk dances and songs. On the third day we practiced non-formal environmental protection exercises and went through some basic concepts about communication. We discussed the potential platforms we could use during the project (like a website, facebook, intagram or tiktok) and we came up with „local-newspapers” as a group exercise. During the afternoon we started planning the future image of the project, once again, in goups, where we came up with a logo design and started planning for the website and its sturcture. In the evening we played bowling together. On the last day we chose the people responsible for different tasks, went into more detail about how we want to do the project and discussed our goals. After doing reflections and evaluation it was time to say goodbye, but not for long, because we knew we would meet again, but that time in Romania.',
-            third_text: 'third workshop text'
+            third_text: 'In our project we try to avoide only campaigning online and we opt to make societal changes among people we cant reach on the internet. One of the best ways to make this happen is by setting an example with our garbage collection event. This firstly discourages the participating youth from throwing away trash in the future and secondly when other people see our action it will lead them to follow proper social norms or to join similar actions. In our garbage collecting activity we also included foreign students living and studying in Nyíregyháza. It also helped the dissemination, that there was serious media attention surrounding the event and the vice-mayor of Nyíregyháza payed a visit to it.'
           }
         }
       },
@@ -112,8 +112,58 @@ i18n
       },
       ro: {
         translation: {
+          copy: {
+            clipboard: 'lorem'
+          },
+
+          news: {
+            title: 'lorem',
+            text: 'Lorem dolores et et duo sea minim clita esse mazim diam sed no iusto lorem kasd praesent rebum. Voluptua amet eirmod. Invidunt lorem sea. Stet eum sanctus amet duo eirmod dolor sanctus ipsum. Feugiat nonumy sit diam ut no elit. Nihil lorem diam esse dolor mazim lorem sed vero at clita sadipscing dolore justo te no. In eu augue eos in facilisi magna. Sadipscing diam in accusam et dolore erat takimata illum amet ipsum. At duis illum nostrud diam vel voluptua consetetur sanctus et no quis et no delenit.'
+          },
+          about: {
+            title: 'Despre noi',
+            first_paragraph: 'În programul nostru, dorim ca tinerii din 3 orașe să se unească într-o campanie online și offline pentru mediul înconjurător și protecția sa și în același timp pentru viața democratică locală, pe baza căreia putem atinge o schimbare fundamentală de atitudine. Observăm că tinerii sunt receptivi la ideea de protecție a mediului înconjurător și doresc să facă mai multe în legătură cu asta. Dorim să generăm proiectul acesta în 3 țări, prin care putem atinge schimbări nu doar în grupurile de oameni de 13-30 de ani, dar și local într-un strat mai larg de oameni.  Programul e bazat pe faptul că, sub numele de Eco-democracy, tineri din 5 țări s-au întâlnit într-un youth exchange internațional dublu, în Italia, în Sassari și Nyíregyháza, și cu ocazia acestui program, posibilitatea unei cooperări în continuare a fost formulată în 3 dintre organizațiile participante.',
+            second_paragraph: 'Am văzut și experimentat că se pot face multe pentru protecția mediului la nivel local, și unul dintre cele mai importante aspecte este dacă putem implementa formare de atitudine de bază, căci asta e baza la toate.  În ambele exchange-uri au fost întreținute activități de voluntariat, în ambele țări am putut experimenta cum oamenii de obicei sunt nepăsători față de mediu, poluându-l cu obiecte nedegradabile.',
+            third_paragraph: 'Oficiul Președintelui Studențesc din Nyíregyháza întreține campanii de colectare a gunoiului în care se găsește că cele 3 cele mai comune tipuri din oraș sunt chiștoace, doze de aluminiu și sticle de plastic, dar am descoperit lucruri similare când curățam o bucată de plajă în Italia. De asemenea, vedem că protecția mediului devine o parte cotidiană a vieții, însă, în multe cazuri, doar la nivelul cuvintelor. Acesta este aspectul asupra căruia proiectul nostru vrea să reflecteze, în care vom lansa campanii de schimbare a atitudinii în 3 orașe, evident, implicând și administratori locali.',
+            fourth_paragraph: 'Vor fi 3 părți principale ale programului nostru: în prima rundă, vom lansa o campanie unită în care atragem atenția la faptul că rezidenții locali nu ar trebui să arunce pe jos, ci să protejeze mediul. Ca al doilea pas în serie, vom invita la acțiuni similare nu numai tineretului orașelor, dar și grupuri mai largi, și finalmente vomlansa acțiuni care indică na viitor care vor include plantare de copaci, înverzire, programe de dezvoltare de grădini comunutare și colectarea deșeurilor.',
+            fifth_paragraph: 'În felul acesta, vom putea nu doar întări conștiința de mediu, dar și să dezvoltăm comunitățile împreună, toate în e orașe a 3 țări. Internațional, vom răspândi ideea de reciclare și de dezvoltare sustenabilă ca să apărăm mediul, ajutând natura și planeta să se regenereze. Obținem toate astea prin schimjarea mentalității tinerilor cu pași mici, astfel încât să ia din natură doar ce le trebuie și să recicleze ce se poate.',
+            sixth_paragraph: 'În timpul activităților de captare a atenției( Flash-mobs, vizite NGO, lucru de acasă, ateliere cu localnicii, expoziții și licitații), vom menționa mereu că proiectul este rezultatul unei colaborări europene și finanțat de Uniunea Europeană. La finalul proiectului, relațiile dintre organizațiile partenere și comunitățile lor vor fi mai puternice ca niciodată. Comunitățile vor fi în contact apropiat cu instituțiile și organizațiile locale, care vor facilita implementarea a tot mai multor evenimente importante pentru comunitate. Comunitatea va realiza că existâ și alte căi de a administra deșeurile decât a le arunca în natură.',
+            seventh_paragraph: 'Este ușor să implicăm administratori în astfel de proiecte, pe de-o parte, pentru că am experimentat pe durata "exchange-ului" trecut că sunt deschiși la întrebări în toate 3 orașele, și pe de-o alta, pentru că avem un program de dezvoltare care nu cere cheltuieli financiare pentru administratori, având în vedere că campaniile de schimbare de atitudine nu cer deloc, sau decât foarte puține resurse financiare de la aceștia, ceea ce este în special benefic în termeni de implementare a programului și succesului său.',
+            goal: 'Ținta proiectului nostru este:',
+            firtst_ul: 'De a încuraja tinerii să conștientizeze și să fie gata de acțiune',
+            second_ul: 'Să îi procure cu oportunități de a face schimburi de exemple bune, să învețe tehnici noi și să învețe împreună într-un mediu internațional',
+            third_ul: 'Să susțină învățarea interculturală',
+            fourth_ul: 'Să dezvolte siguranță de sine și abilutatea de a lua decizii prin metode de educare neformale',
+            fifth_ul: 'Stabilirea de comunități conștiente de mediu și cu valori democratice',
+            sixth_ul: 'Formare a atitudinii pentru a cauza cât mai puțină distrugere a mediului',
+            seventh_ul: 'Channeling activ al administratorilor pentru a atinge scopuri, cooperarea și gândire împreună între tineri și administrație pentru a proteja mediul nostru.'
+          },
+
+          navbar: {
+            home: 'Pagina principala',
+            about: 'Despre',
+            news: 'Știri',
+            gallery: 'Galerie'
+            
+          },
+
+            workshop: {
+              date_first: '2023',
+              date_second: '2023',
+              date_third: '2023. 24 iulie, | Nyíregyháza,',
+              first: 'lorem',
+              second: 'lorem',
+              third: 'Campanie de protecția mediului, colectare a deșeurilor',
+              second_text: 'lorem',
+              first_text: 'lorem',
+              third_text: 'În proiectul nostru încercăm să evităm să fim activi doar campaniile online și optăm la facerea de schimbări sociale printre oameni la care nu putem ajunge pe internet. Unul dintre cele mai bune moduri de a face asta să se întâmple este prin setarea unui exemplu cu colectarea deșeurilor pe care o facem. Asta în primul rând descurajează tinerii din a participa la aruncarea gunoiului în viitor și, în al doilea rând, când alții vor vedea acțiunile noastre îi va face să urmeze norme sociale cum trebuie și să se alăture unor acțiuni similare. În activitățile noastre de colectare a deșeurilor includem și studenți străini care trăiesc și studiază în Nyíregyháza. A ajutat foarte mult și diseminarea, faptul că a fost o mediatizare serioasă în jurul evenimentului și viceprimarul Nyíregyháza a vizitat'
+            }
 
         }
+      },
+
+      pl: {
+        
       }
     }
   });
