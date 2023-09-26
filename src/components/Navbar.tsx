@@ -101,7 +101,7 @@ export default function Navbar() {
                       <Menu.Item>
                         {({ active }) => (
                           <a
-                            href="#"
+                          onClick={() => i18n.changeLanguage('pl')}
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
                           >
                             <center><PL height={20} title="Polish" className="drop-shadow-2xl" /></center>
@@ -111,7 +111,7 @@ export default function Navbar() {
                       <Menu.Item>
                         {({ active }) => (
                           <a
-                            href="#"
+                          onClick={() => i18n.changeLanguage('ro')}
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
                           >
                             <center><RO height={20} title="Romanian" className="drop-shadow-2xl" /></center>
