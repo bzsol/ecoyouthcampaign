@@ -73,6 +73,10 @@ const images = [
     original: "/fourth/4.jpg",
     thumbnail: "/fourth/4.jpg",
   },
+  {
+    original: "/fourth/5.jpg",
+    thumbnail: "/fourth/5.jpg",
+  },
 ];
 
 function ImageSwiper() {
