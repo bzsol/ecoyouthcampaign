@@ -10,7 +10,7 @@ const fifth = [
   { src: '/fifth/4.jpg', alt: '4'}
 ]
 
-function FirstWorkshop() {
+function FifthWorkshop() {
   const { t } = useTranslation();
   return (
     <div id="main" className="App">
@@ -23,4 +23,4 @@ function FirstWorkshop() {
   );
 }
 
-export default FirstWorkshop;
+export default FifthWorkshop;

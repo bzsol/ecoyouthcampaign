@@ -90,6 +90,19 @@ const images = [
     original: "/fifth/4.jpg",
     thumbnail: "/fifth/4.jpg",
   },
+  {
+    original: "/sixth/1.jpg",
+    thumbnail: "/sixth/1.jpg",
+  },  {
+    original: "/sixth/2.jpg",
+    thumbnail: "/sixth/2.jpg",
+  },  {
+    original: "/sixth/3.jpg",
+    thumbnail: "/sixth/3.jpg",
+  },  {
+    original: "/sixth/4.jpg",
+    thumbnail: "/sixth/4.jpg",
+  },
 ];
 
 function ImageSwiper() {

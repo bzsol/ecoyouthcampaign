@@ -65,7 +65,10 @@ i18n
             fourth_text: 'Let’s Do It, Romania! Colegiul Economic al Banatului Montan Reșita participated this year for a new edition of the National Cleanup Day that took place on September 16, together with 191 other countries that had the same mission: a world with less waste."Let’s Do It, Romania!" is the largest social involvement project in Romania, which aims to clean up waste from natural areas in a single day.Project volunteers mobilized high school students to carry out this ecological activity. Why did our school participate? – Because we wanted to have a cleaner neighborhood and city. Because we are convinced that only through the power of example you can contribute to changing society for the better.',
             date_fifth: '2023',
             fifth: 'a',
-            fifth_text: 'a'
+            fifth_text: 'a',
+            date_sixth: '2023',
+            sixth: 'b',
+            sixth_text: 'c'
           }
         }
       },
@@ -117,7 +120,10 @@ i18n
                 fourth_text: 'Let’s Do It, Románia! A Colegiul Economic al Banatului Montan Reșita idén szeptember 16-án, másik 191 országgal együtt vett részt a „Nemzeti Takarítás Napján”, amelyeknek ugyanaz volt a küldetése: egy világ kevesebb hulladékkal. A "Let’s Do It, Románia!" a legnagyobb társadalmi szerepvállalási projekt Romániában, amelynek célja a természeti területek hulladékának egyetlen nap alatt történő eltakarítása. A projekt önkéntesei középiskolás diákokat mozgósítottak ennek az ökológiai tevékenységnek a végrehajtására. Miért vett részt iskolánk? – Mert tisztább környéket és várost akartunk. Mert meg vagyunk győződve arról, hogy csak a példamutatás erejével lehet hozzájárulni a társadalom jobbá tételéhez.',
                 date_fifth: '2023',
                 fifth: 'a',
-                fifth_text: 'a'
+                fifth_text: 'a',
+                date_sixth: '2023',
+                sixth: 'c',
+                sixth_text: 'c'
             }
         }
       },
@@ -173,7 +179,10 @@ i18n
               fourth_text: 'Let’s do it, Romania! Colegiul Economic al Banatului Montan Reșita a participat anul acesta la o nouă ediție a Zilei Naționale a Curățeniei care a avut loc pe 16 septembrie, alături de alte 191 de țări care au avut aceeași misiune: o lume cu mai puține deșeuri „Let’s Do It, Romania!” este cel mai mare proiect de implicare socială din România, care are ca scop curățarea deșeurilor din zonele naturale într-o singură zi. Voluntarii proiectului au mobilizat elevii de liceu pentru a desfășura această activitate ecologică. De ce a participat școala noastră? – Pentru că am vrut să avem un cartier și un oraș mai curat. Pentru că suntem convinși că doar prin puterea exemplului poți contribui la schimbarea în bine a societății.',
               date_fifth: '2023',
               fifth: 'a',
-              fifth_text: 'a'
+              fifth_text: 'a',
+              date_sixth: '2023',
+              sixth: 'b',
+              sixth_text: 'b'
             }
 
         }
@@ -231,7 +240,10 @@ i18n
             fourth_text: 'fourth_text',
             date_fifth: '2023',
             fifth: 'a',
-            fifth_text: 'a'
+            fifth_text: 'a',
+            date_sixth: '2023',
+            sixth: 'b',
+            sixth_text: 'b'
           }
         }
       }
