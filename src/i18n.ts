@@ -63,11 +63,11 @@ i18n
             date_fourth: '2023. September 16. | RESITA',
             fourth: 'Environmental protection campaign, garbage collection',
             fourth_text: 'Let’s Do It, Romania! Colegiul Economic al Banatului Montan Reșita participated this year for a new edition of the National Cleanup Day that took place on September 16, together with 191 other countries that had the same mission: a world with less waste."Let’s Do It, Romania!" is the largest social involvement project in Romania, which aims to clean up waste from natural areas in a single day.Project volunteers mobilized high school students to carry out this ecological activity. Why did our school participate? – Because we wanted to have a cleaner neighborhood and city. Because we are convinced that only through the power of example you can contribute to changing society for the better.',
-            date_fifth: '2023. 09. 30., | Resita',
-            fifth: 'Resita',
+            date_fifth: '2023. September 30., | Presentation, Resita, Romania',
+            fifth: 'Presentation, Resita',
             fifth_text: 'The team involved in the project prepared a power point presentation about recycling and disseminated this information to the students of the Economic College, in order to raise awareness that recycling does not only have benefits for the environment, it can also be a change for the better for the community. Students were encouraged to start with small steps and not to put too much pressure on themselves or their loved ones because frustration and a desire to give up on this process so beneficial to nature may arise. Unfortunately, Romania is not a leader in recycling, as only 30% of students in Romania participated in programs where they learned about the importance of selective collection and recycling of waste, according to a Clean Recycle analysis.',
-            date_sixth: '2023. OCTOBER 10., | Dynów',
-            sixth: 'Dynów',
+            date_sixth: '2023. October 10., | Garbage collection, Dynów, Poland',
+            sixth: 'Garbage collection, Dynów',
             sixth_text: 'Students from Dynów High School participated in an action called "Let’s clean up our planet". They went to a nearby park to pick up trash. Many cities have a problem of littering in public areas so the young people wanted to show how they can deal with it, by setting a good example'
           }
         }
@@ -177,11 +177,11 @@ i18n
               date_fourth: '2023. Septembrie 16., | RESITA',
               fourth: 'Campanie de protecția mediului, colectare a deșeurilor',
               fourth_text: 'Let’s do it, Romania! Colegiul Economic al Banatului Montan Reșita a participat anul acesta la o nouă ediție a Zilei Naționale a Curățeniei care a avut loc pe 16 septembrie, alături de alte 191 de țări care au avut aceeași misiune: o lume cu mai puține deșeuri „Let’s Do It, Romania!” este cel mai mare proiect de implicare socială din România, care are ca scop curățarea deșeurilor din zonele naturale într-o singură zi. Voluntarii proiectului au mobilizat elevii de liceu pentru a desfășura această activitate ecologică. De ce a participat școala noastră? – Pentru că am vrut să avem un cartier și un oraș mai curat. Pentru că suntem convinși că doar prin puterea exemplului poți contribui la schimbarea în bine a societății.',
-              date_fifth: '2023. 09. 30., | Resita',
-              fifth: 'Resita',
+              date_fifth: '2023. Septembrie 30., | Prezentare, Resita, Romania',
+              fifth: 'Prezentare, Resita',
               fifth_text: 'Echipa implicată în proiect a pregatit o prezentare power point  despre reciclare și a diseminat aceste informații elevilor din Colegiul Economic, pentru a creste conștientizarea că reciclarea nu are beneficii doar pentru mediul înconjurător,  ea poate fi o schimbare în bine și pentru comunitate.  Elevii au fost încurajați să înceapă cu pași mici și să nu pună presiune prea mare nici pe ei, nici pe cei dragi pentru că este posibil să apară frustrarea și dorința de a renunța la acest proces atât de benefic pentru natură. Din păcate, România nu este fruntașă la capitolul reciclare, întrucât doar 30% dintre elevii din România au participat la programe în care au învățat despre importanța colectării selective și reciclarea deșeurilor, potrivit unei analize Clean Recycle.',
-              date_sixth: '2023. 10. 10., | Dynów',
-              sixth: 'Dynów',
+              date_sixth: '2023. octombrie 10., | Campanie de protecția mediului, colectare a deșeurilor, Dynów, Poland',
+              sixth: 'Campanie de protecția mediului, colectare a deșeurilor, Dynów',
               sixth_text: 'Elevii de la Liceul din Dynów au participat la o acțiune numită „Curățăm planeta noastră”. Au mers într-un parc apropiat pentru a strânge gunoiul. Multe orașe se confruntă cu problema aruncării deșeurilor în spațiile publice, așa că tinerii au vrut să arate cum pot face față acestei situații, dând un exemplu pozitiv.'
             }
 
@@ -238,11 +238,11 @@ i18n
             date_fourth: 'date_fourth',
             fourth: 'fourth_title',
             fourth_text: 'fourth_text',
-            date_fifth: '2023. 09. 30., | Resita',
-            fifth: 'Resita',
+            date_fifth: '2023. Wrzesień 30., | Prezentacja, Resita, Romania',
+            fifth: 'Prezentacja, Resita',
             fifth_text: 'Zespół zaangażowany w projekt przygotował prezentację Power Point na temat recyklingu i rozpowszechnił te informacje pośród studentów Kolegium Ekonomicznego, aby podnieść świadomość, że recykling nie tylko przynosi korzyści dla środowiska, ale może być również zmianą na lepsze dla społeczności. Studenci zostali zachęceni do rozpoczęcia od małych kroków i nie wywierania zbyt dużej presji na siebie lub swoich bliskich, ponieważ może to spowodować frustrację i chęć rezygnacji z tak korzystnego dla przyrody procesu. Niestety, Rumunia nie jest liderem w recyklingu, ponieważ tylko 30% uczniów w Rumunii uczestniczyło w programach, w których dowiedzieli się o znaczeniu selektywnej zbiórki i recyklingu odpadów, zgodnie z analizą Clean Recycle.',
-            date_sixth: '2023. 10. 10., | Dynów',
-            sixth: 'Dynów',
+            date_sixth: '2023. Październik 10., | Zbieranie śmieci, Dynów, Polska',
+            sixth: 'Zbieranie śmieci, Dynów',
             sixth_text: 'Uczniowie Liceum Ogólnokształcącego w Dynowie wzięli udział w akcji "Posprzątajmy naszą planetę". Udali się do pobliskiego parku, aby pozbierać śmieci. Wiele miast boryka się z problemem zaśmiecania terenów publicznych, więc młodzi ludzie chcieli pokazać, jak można sobie z tym radzić, dając dobry przykład'
           }
         }
