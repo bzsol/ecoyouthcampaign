@@ -77,6 +77,19 @@ const images = [
     original: "/fourth/5.jpg",
     thumbnail: "/fourth/5.jpg",
   },
+  {
+    original: "/fifth/1.jpg",
+    thumbnail: "/fifth/1.jpg",
+  },  {
+    original: "/fifth/2.jpg",
+    thumbnail: "/fifth/2.jpg",
+  },  {
+    original: "/fifth/3.jpg",
+    thumbnail: "/fifth/3.jpg",
+  },  {
+    original: "/fifth/4.jpg",
+    thumbnail: "/fifth/4.jpg",
+  },
 ];
 
 function ImageSwiper() {
