@@ -46,12 +46,22 @@ function Home() {
         { src: '/sixth/3.jpg', alt: '3' },
         { src: '/sixth/4.jpg', alt: '4' },
     ]
+    const seventh = [
+        { src: '/seventh/1.jpg', alt: '1' },
+        { src: '/seventh/2.jpg', alt: '2' },
+        { src: '/seventh/3.jpg', alt: '3' },
+        { src: '/seventh/4.jpg', alt: '4' },
+        { src: '/seventh/5.jpg', alt: '5' },
+        { src: '/seventh/6.jpg', alt: '6' },
+        { src: '/seventh/7.jpg', alt: '7' }
+    ]
 
     return (
         <div id="main" className="App">
             <div className="flex flex-col">
                 <Hero></Hero>
                 <Navbar></Navbar>
+                <Section url="/seventh-workshop" date={t('workshop.date_seventh')} title={t('workshop.seventh')} text={t('workshop.seventh_text')} photo={seventh}></Section>
                 <Section url="/sixth-workshop" date={t('workshop.date_sixth')} title={t('workshop.sixth')} text={t('workshop.sixth_text')} photo={sixth}></Section>
                 <Section url="/fifth-workshop" date={t('workshop.date_fifth')} title={t('workshop.fifth')} text={t('workshop.fifth_text')} photo={fifth}></Section>
                 <Section url="/fourth-workshop" date={t('workshop.date_fourth')} title={t('workshop.fourth')} text={t('workshop.fourth_text')} photo={fourth}></Section>
