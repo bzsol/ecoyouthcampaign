@@ -209,22 +209,22 @@ i18n
           },
 
           about: {
-            title: ':',
-            first_paragraph: '.',
-            second_paragraph: '.',
-            third_paragraph: '.',
-            fourth_paragraph: '.',
-            fifth_paragraph: '.',
-            sixth_paragraph: '.',
-            seventh_paragraph: '.',
-            goal: '.',
-            first_ul: '.',
-            second_ul: '.',
-            third_ul: '.',
-            fourth_ul: '.',
-            fifth_ul: '.',
-            sixth_ul: '.',
-            seventh_ul: '.'
+            title: 'O nas:',
+            first_paragraph: 'W naszym programie chcemy, aby młodzi ludzie z 3 miast zjednoczyli się i rozpoczęli kampanię online i offline na rzecz ochrony środowiska i jednocześnie lokalnego demokratycznego życia publicznego, na bazie której możemy osiągnąć fundamentalną zmianę postaw. Widzimy i doświadczamy, że młodzi ludzie są otwarci na ochronę środowiska i chcą zrobić dla niej znacznie więcej. Chcemy wygenerować ten projekt w 3 krajach, dzięki któremu możemy osiągnąć zmianę nie tylko w grupie wiekowej 13-30 lat, ale także lokalnie wśród szerokich warstw.',
+            second_paragraph: 'Program opierał się na fakcie, że pod nazwą eko-demokracji młodzi ludzie z 5 krajów spotkali się na podwójnej międzynarodowej wymianie młodzieży we Włoszech, w Sassari i Nyíregyháza, a przy okazji tego programu sformułowano możliwość dalszej współpracy w 3 uczestniczących organizacjach. Zobaczyliśmy i doświadczyliśmy, że wiele można zrobić dla ochrony środowiska na poziomie lokalnym, a jednym z najważniejszych elementów jest to, czy możemy wdrożyć podstawowe kształtowanie postaw, ponieważ jest to podstawa wszystkiego. W obu krajach mogliśmy doświadczyć, że ludzie często nie zwracają uwagi na swoje środowisko, zanieczyszczają środowisko przedmiotami, które nie ulegają rozkładowi lub potrzebują na to dużo czasu.',
+            third_paragraph: 'Studenckie Biuro Burmistrza Nyíregyháza regularnie przeprowadza akcje zbierania śmieci, podczas których okazuje się, że 3 najczęstsze rodzaje śmieci w mieście to niedopałki papierosów, puszki aluminiowe i plastikowe butelki, ale doświadczyliśmy również podobnych rzeczy podczas sprzątania odcinka plaży we Włoszech. Widzimy również i doświadczamy, że ochrona środowiska staje się coraz bardziej częścią codziennego życia, ale w wielu przypadkach tylko na poziomie słów. Właśnie nad tym chciałby się zastanowić nasz projekt, w ramach którego uruchomilibyśmy kampanie zmieniające nastawienie w 3 miastach, oczywiście angażując również lokalnych decydentów.',
+            fourth_paragraph: 'W pierwszej rundzie uruchomilibyśmy wspólną kampanię, w której zwrócilibyśmy uwagę na fakt, że lokalni mieszkańcy nie powinni śmiecić i chronić swoje środowisko. W drugim etapie zaprosilibyśmy do podobnych działań nie tylko młode społeczności miast, ale także szerszą grupę docelową, a na koniec rozpoczęlibyśmy działania wskazujące na przyszłość, które obejmowałyby sadzenie drzew, zielone pokrycie, programy rozwoju ogrodów społecznościowych i zbiórkę śmieci.',
+            fifth_paragraph: 'W ten sposób możemy nie tylko wzmocnić świadomość ekologiczną, ale także wspólnie rozwijać społeczności w 3 miastach 3 krajów. Na arenie międzynarodowej będziemy rozpowszechniać ideę recyklingu i zrównoważonego rozwoju w celu ochrony środowiska, pomagając naturze i planecie w regeneracji. Osiągamy to wszystko poprzez zmianę myślenia młodych ludzi małymi krokami, tak aby brali z natury tylko to, czego potrzebują i poddawali recyklingowi to, co może być.',
+            sixth_paragraph: 'Podczas przyciągających uwagę działań (Flash-mobs, wizyty w organizacjach pozarządowych, praca w domu, warsztaty z mieszkańcami, wystawa i aukcja) zawsze będziemy wspominać, że projekt jest wynikiem współpracy europejskiej i został sfinansowany przez Unię Europejską. Pod koniec projektu relacje między organizacjami partnerskimi a ich społecznością będą silniejsze niż kiedykolwiek. Społeczności będą w bliższym kontakcie z lokalnymi organizacjami i instytucjami, co ułatwi realizację coraz ważniejszych wydarzeń dla społeczności. Społeczność zda sobie sprawę, że istnieją inne sposoby zarządzania odpadami niż wyrzucanie ich do natury.',
+            seventh_paragraph: 'Łatwo jest zaangażować decydentów w takie i podobne projekty, z jednej strony, ponieważ podczas poprzedniej podwójnej wymiany doświadczyliśmy, że są oni otwarci na tę kwestię we wszystkich trzech miastach, a z drugiej strony, ponieważ opracowaliśmy program, który nie wiąże się z nakładami finansowymi dla decydentów, ponieważ kampanie kształtujące postawy lub promocje nie wymagają lub wymagają jedynie bardzo niewielkich środków finansowych od decydentów, co jest szczególnie korzystne pod względem realizacji programu i jego sukcesu.',
+            goal: 'Cele naszego projektu:',
+            first_ul: 'Zachęcenie młodych ludzi do świadomego myślenia i gotowości do działania.',
+            second_ul: 'Zapewnienie im możliwości wymiany dobrych przykładów, poznania nowych technik i wspólnej nauki w międzynarodowym środowisku.',
+            third_ul: 'Wspieranie międzykulturowego uczenia się',
+            fourth_ul: 'Rozwijanie pewności siebie i umiejętności samooceny przy użyciu metod edukacji pozaformalnej.',
+            fifth_ul: 'Tworzenie społeczności świadomych ekologicznie i wyznających wartości demokratyczne',
+            sixth_ul: 'Kształtowanie postaw w celu spowodowania jak najmniejszych szkód dla środowiska.',
+            seventh_ul: '  Aktywne kierowanie decydentów w celu osiągnięcia celów, współpracy i wspólnego myślenia między młodymi ludźmi a decydentami w celu ochrony naszego środowiska.'
           },
 
           navbar: {
